@@ -1,24 +1,8 @@
-# README
+# Back End REST APIs Using Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This workspace is to for Section 12 of the Ruby on Rails Back End Class.  You should follow the instructions for
+that class section.  After you clone and fork this workspace, create a new git branch called rest.  The work
+you do to create the API should be in this branch.  When that work is complete, push your rest branch to github.
+Then create a pull request as usual.
+Then create a new git branch called swagger from the rest branch.  The work you do to enable your API application for Swagger should
+be in this branch.  When that work is complete, push your swagger branch to github, and create another pull request for that branch.
