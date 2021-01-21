@@ -1,6 +1,6 @@
 # Back End REST APIs Using Rails
 
-This workspace is to for Section 12 of the Ruby on Rails Back End Class.  You should follow the instructions for
+This git repository is to for Section 12 of the Ruby on Rails Back End Class.  You should follow the instructions for
 that class section.  After you clone and fork this workspace, create a new git branch called rest.  The work
 you do to create the API should be in this branch.  When that work is complete, push your rest branch to github.
 Then create a pull request as usual.
